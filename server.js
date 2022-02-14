@@ -12,4 +12,4 @@ client.on("message", message => {
   }
 })
 
-client.login("OTIyODYyNzQ5MDgyNTkxMjYy.YcHo6Q.nYBqJGDpanEZcL5kRgdsde2C4l8")
+client.login("OTIyODYyNzQ5MDgyNTkxMjYy.YcHo6Q.r3gD3d8VppDPVJ1VgBU9y2mC4wA")
